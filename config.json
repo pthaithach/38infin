@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Infinity Nail Bar",
+        "slug"      : "Infinity-nail-bar",
+        "phone"     : "(850) 466-2446",
+        "email"     : "infinitynailbarusa@gmail.com",
+        "address"   : "1308 W 9 Mile Rd #14 Pensacola, Florida 32534",
+        "time_1"    : "Mon - Sat: 09:00 AM - 07:00 PM",
+        "time_2"    : "Sun: Closed"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/Infinity-Nail-Bar-100197828047944",
+        "instagram" :   "https://www.instagram.com/infinitynailbarusa",
+        "google"    :   "https://goo.gl/maps/hE6kNFKceyqHpeyv9",
+        "booking"   :   "https://www.lldtek.com/salon/appt/Mzc1MjN8aW5maW5pdHkxMzA4fEZMXzA3MzU3fDFmMTNjNGNjY2NhYTkxMGI5YjE4YzY5OTg5OWJjNmNj",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28151996.831220128!2d-123.15603629999995!3d30.534523000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x889095dde8be7a4f%3A0x371404744bcca6d5!2sInfinity%20Nail%20Bar!5e0!3m2!1sen!2s!4v1670238148153!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "rgb(137 3 3 / 100%)",
+        "primary_light"         :   "rgb(137 3 3 / 50%)",
+        "primary_hover"         :   "rgb(137 3 3 / 80%)",
+        "secondary"             :   "#540101",
+        "secondary_hover"       :   "#2b0101",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#ffc600",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
